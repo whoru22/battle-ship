@@ -1,0 +1,20 @@
+[[package]]
+name = "board.aleo"
+location = "local"
+path = "/workspace/ludium-aleo-zk-snark-pratice/battleship/board"
+checksum = "8ba040cecce33f2fb3c3fe0b0d83910f14517bab8bcc4f9d6ace23f0465a0261"
+dependencies = []
+
+[[package]]
+name = "move.aleo"
+location = "local"
+path = "/workspace/ludium-aleo-zk-snark-pratice/battleship/move"
+checksum = "2c1cb2d07d2dc600149ae468e6ed84c5e1762031ce29d6b69088ef2c75f59e0d"
+dependencies = []
+
+[[package]]
+name = "verify.aleo"
+location = "local"
+path = "/workspace/ludium-aleo-zk-snark-pratice/battleship/verify"
+checksum = "2c2035ebd70500b7e5a9a6198bed1a1163cd1ddfd09128db8f4c16cf23ad2c62"
+dependencies = []
