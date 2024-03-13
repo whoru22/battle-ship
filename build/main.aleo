@@ -1,7 +1,7 @@
 import board.aleo;
 import move.aleo;
 import verify.aleo;
-program battleship.aleo;
+program battleship_whoru.aleo;
 
 
 
